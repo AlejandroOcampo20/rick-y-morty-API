@@ -1,0 +1,5 @@
+/* Estilo para los botones */
+#tablaPersonajes button {
+  font-weight: bold;
+  border-radius: 10px;
+}
